@@ -20,9 +20,8 @@ The dataset contained a lot of columns that were not useful to the analysis. Tho
 ----
 # Data Analysis
 On Anayzing the data set, the following information was gotten:
-<h6>The Trend of Airplane crashes from 1908 to 2009</6>
-<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/TrendOverYears.jpg
-" width="300" height="300"
+<h6>The Trend of Airplane crashes from 1908 to 2009</h6>
+<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/TrendOverYears.jpg" width="300" height="300"
 </br>
 
 
