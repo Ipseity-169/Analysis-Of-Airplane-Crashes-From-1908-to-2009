@@ -15,7 +15,11 @@ The dataset contained a lot of columns that were not useful to the analysis. Tho
 <img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/Preview(01).png" height="400" width="400">
 <img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/Preiew(02).png" height="400" width="400">
 <br/>
-<a href=
+<a href="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane_Crashes_and_Fatalities_Since_1908%5B1%5D.csv">This is the link to get the raw CSV file </a>
+
+----
+# Data Analysis
+On Anayzing the data set, the following information was gotten:
 
 
 
