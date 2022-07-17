@@ -1,5 +1,6 @@
 # Analysis-Of-Airplane-Crashes-From-1908-to-2009
 This Project is my capstone project to signify my completion of the #30DaysOfLearning Bootcamp. I have learnt a lot from the boot camp and I hope this project shows how far I've come.
+<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/CoverPage.jpg" height="300" width="600"
 
 ----
 # Project Objective
@@ -39,11 +40,12 @@ On Anayzing the data set, the following information was gotten:
 <h3> Airplane Operators with the Highest Recorded Crashes</h3>
 <img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/OperatorsWithHighestCrashes.jpg" height="400" width="400">
 </br>
+NB: A slicer was added to the report page to filter the visual to see informations for any specific year
 
 ----
 # Insight Gained from the Analysis
 <h3>Below are the insights gained from this analysis</h3>
-<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/InsightGained.jpg" height="400" width="500">
+<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/InsightGained.jpg" height="400" width="600">
 </br>
 <a href="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Aeroplane%20crashes%20since%201908.pbix">Link to PowerBI file</a>
 
