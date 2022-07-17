@@ -12,7 +12,7 @@ The dataset used for this analysis was collected from kaggle. The link to the da
 ----
 # Data Transformation
 The dataset contained a lot of columns that were not useful to the analysis. Those columns were removed in the Power Query Editor. Also, colums that were mostly empty were also removed. Example, was the 'Time' column, a definite time of crash was not recorded for most of the crashes, and sp leaving the column would just add moise to the dataset. The 'Date' column was given the datatype of text, and a lot of the entries returned an error message when I tried to change the datatype. I noticed that this was because the the date format was in the mm/dd/yyyy format and power query could not read the inputs. I solved this problem by going to the regional settings and setting my Locale for Import to the Unted States which is one of the countries that uses that particular ate format. I also added an index column to the table for easy analysis. Finally, I cleaned all columns with number datatype by replacing the empty rows with 0, and removing entries with error. Below is a preview of the table when I was done cleaning.
-<img src="Airplane Crashes Images/Preview(01).png">
+<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/Preview(01).png">
 
 
 
