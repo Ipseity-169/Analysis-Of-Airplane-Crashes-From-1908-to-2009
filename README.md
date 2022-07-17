@@ -20,21 +20,31 @@ The dataset contained a lot of columns that were not useful to the analysis. Tho
 ----
 # Data Analysis
 On Anayzing the data set, the following information was gotten:
-<h5>The Trend of Airplane crashes from 1908 to 2009</h5>
+<h3>The Trend of Airplane crashes from 1908 to 2009</h3>
 <img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/TrendOverYears.jpg" width="400" height="400">
 </br>
 
-<h5>The Total Count of Crashes, Fatalities, and Survivors</h5>
+<h3>The Total Count of Crashes, Fatalities, and Survivors</h3>
 <img src ="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/CountOfCrashesFatalitiesAndSurvivors.jpg" height="400 width="400">
 </br>
 
-<h5>Months with the Highest Airplane Crashes Occurence</h5>
+<h3>Months with the Highest Airplane Crashes Occurence</h3>
 <img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/MonthsWithHihestCrashes.jpg" height="400" width="400">
 </br>
 
-<h5>Plane types with the Highest Recorded Crashes</h5>
+<h3>Plane types with the Highest Recorded Crashes</h3>
 <img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/PlanesWithHighestNumberOfAccident.jpg" width="400" height="400">
 </br>
 
+<h3> Airplane Operators with the Highest Recorded Crashes</h3>
+<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/OperatorsWithHighestCrashes.jpg" height="400" width="400">
+</br>
+
+----
+# Insight Gained from the Analysis
+<h3>Below are the insights gained from this analysis</h3>
+<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/InsightGained.jpg" height="400" width="500">
+</br>
+<a
 
 
