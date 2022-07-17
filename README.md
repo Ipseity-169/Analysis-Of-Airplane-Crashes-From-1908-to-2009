@@ -45,6 +45,7 @@ On Anayzing the data set, the following information was gotten:
 <h3>Below are the insights gained from this analysis</h3>
 <img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/InsightGained.jpg" height="400" width="500">
 </br>
-<a
+<a href="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Aeroplane%20crashes%20since%201908.pbix">Link to PowerBI file</a>
+
 
 
