@@ -1,6 +1,6 @@
 # Analysis-Of-Airplane-Crashes-From-1908-to-2009
 This Project is my capstone project to signify my completion of the #30DaysOfLearning Bootcamp. I have learnt a lot from the boot camp and I hope this project shows how far I've come.
-<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/CoverPage.jpg" height="300" width="600"
+<img src="https://github.com/Ipseity-169/Analysis-Of-Airplane-Crashes-From-1908-to-2009/blob/main/Airplane%20Crashes%20images/CoverPage.jpg" height="300" width="600">
 
 ----
 # Project Objective
